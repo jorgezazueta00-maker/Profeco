@@ -1,0 +1,10 @@
+mx\gob\profeco\quejas\resource\EvidenciaResource.class
+mx\gob\profeco\quejas\repository\QuejaRepository.class
+mx\gob\profeco\quejas\resource\QuejaResource.class
+mx\gob\profeco\quejas\model\Queja.class
+mx\gob\profeco\quejas\model\QuejaDTO.class
+mx\gob\profeco\quejas\service\NotificacionBroadcaster.class
+mx\gob\profeco\quejas\resource\NotificacionSSEResource.class
+mx\gob\profeco\quejas\model\EstadoDTO.class
+mx\gob\profeco\quejas\model\Evidencia.class
+mx\gob\profeco\quejas\repository\EvidenciaRepository.class

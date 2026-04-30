@@ -1,0 +1,10 @@
+C:\Users\jorge\Downloads\profeco-quejas-limpio\src\main\java\mx\gob\profeco\quejas\model\EstadoDTO.java
+C:\Users\jorge\Downloads\profeco-quejas-limpio\src\main\java\mx\gob\profeco\quejas\model\Evidencia.java
+C:\Users\jorge\Downloads\profeco-quejas-limpio\src\main\java\mx\gob\profeco\quejas\model\Queja.java
+C:\Users\jorge\Downloads\profeco-quejas-limpio\src\main\java\mx\gob\profeco\quejas\model\QuejaDTO.java
+C:\Users\jorge\Downloads\profeco-quejas-limpio\src\main\java\mx\gob\profeco\quejas\repository\EvidenciaRepository.java
+C:\Users\jorge\Downloads\profeco-quejas-limpio\src\main\java\mx\gob\profeco\quejas\repository\QuejaRepository.java
+C:\Users\jorge\Downloads\profeco-quejas-limpio\src\main\java\mx\gob\profeco\quejas\resource\EvidenciaResource.java
+C:\Users\jorge\Downloads\profeco-quejas-limpio\src\main\java\mx\gob\profeco\quejas\resource\NotificacionSSEResource.java
+C:\Users\jorge\Downloads\profeco-quejas-limpio\src\main\java\mx\gob\profeco\quejas\resource\QuejaResource.java
+C:\Users\jorge\Downloads\profeco-quejas-limpio\src\main\java\mx\gob\profeco\quejas\service\NotificacionBroadcaster.java
